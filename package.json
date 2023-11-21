@@ -1,17 +1,24 @@
 {
   "name": "vue2-vite",
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "author": {
+    "name": "Tim Burgess",
+    "email": "teach.06-cars@icloud.com"
+  },
+  "license": "MIT",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "serve": "vite preview"
   },
   "dependencies": {
-    "vue": "^2.6.12",
-    "vue-template-compiler": "^2.7.14"
+    "vue": "^2.7.0"
   },
   "devDependencies": {
-    "vite": "^2.0.5",
-    "vite-plugin-vue2": "^2.0.1"
+    "@vitejs/plugin-vue2": "^2.3.1",
+    "vite": "^3.2.7"
+  },
+  "engines": {
+    "node": ">=16.20.0"
   }
 }

@@ -1,0 +1,8 @@
+
+1.0.0
+
+- update Vue to 2.7
+- use newer @vitejs/plugin-vue2
+- drop yarn.lock
+- set minimum of Node 16 (Node 16 is EOL btw)
+- create CHANGELOG.txt
