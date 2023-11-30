@@ -2,8 +2,11 @@
 
 A simple start for using Vue 2 with Vite.
 
-Forked from https://github.com/matt-auckland/vite-vue2-starter
-and updated to the Vue 2.7 "LTS" version
+I built this project specifically for dealing with an existing Vue 2 project that
+was challenging to migrate from Webpack to Vite.
+
+The base was forked from https://github.com/matt-auckland/vite-vue2-starter, then
+amongst other updates, upgraded to the Vue 2.7 "LTS" version
 
 The Vue 2.7 announcement is https://blog.vuejs.org/posts/vue-2-7-naruto
 
